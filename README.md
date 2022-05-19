@@ -1,1 +1,1 @@
-![]{images/sigma-blog-architecture.png)
+![](/images/sigma-blog-architecture.png)
